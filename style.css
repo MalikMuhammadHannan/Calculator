@@ -1,0 +1,41 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Carrois Gothic', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button {
+    padding: 20px;
+    margin: 2px 3px;
+    border-radius: 0 15px;
+    border: 2px solid black;
+    cursor: pointer;
+    width: 60px;
+    transition: all 1s ease;
+
+}
+.button :hover{
+    background-color: aqua;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.rows input {
+    padding: 0.8rem 1rem;
+    width: 14rem;
+    margin: 1rem;
+    font-size: 2rem;
+
+}
+
+.row button {
+    font-size: 1.5rem;
+
+
+    font-weight: 1000px;
+    
+}
